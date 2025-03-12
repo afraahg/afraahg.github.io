@@ -1,0 +1,26 @@
+menu:
+
+- {name: 'projects', url: '/projects'}    
+- {name: 'courses', url: '/courses'}
+# - {name: 'tags', url: '/tags'}
+- {name: 'cv', url: '/cv'}
+- {name: 'photography', url: 'https://a6g.dev/'}
+- {name: 'contact', url: '/contact'}
+
+
+people:
+- {name: 'Primary Investigator', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
+- {name: 'Lab Technician', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/lab-technician.jpg', url: 'lab-technician'}
+- {name: 'Graduate Student', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
+
+courses:
+- {name: 'BUDT758: Data Visualization & Web Analytics', url: 'BUDT758D'}
+- {name: 'INST414: Data Science Techniques', url: 'INST414'}
+- {name: 'INST462: Intro to Data Visualization', url: 'INST462'}
+
+social:
+- {icon: 'github', link: 'https://github.com/afraahg'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/afraahgoshu/'}
+
+contacts:
+- {name: 'Dr. Academia', title: 'Professor', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/contact.jpg'}

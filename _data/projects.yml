@@ -1,0 +1,12 @@
+#for home page featured items
+featured:
+- {name: 'Sample Project 1', url: 'projects/W5---Animation--Google-search-for-FB-.html'}
+#note pdf links work too 
+
+#for actual page
+index:
+- {name: 'Sample Project 1', url: 'projects/W5---Animation--Google-search-for-FB-.html', img_src: '/headerimg.jpg', desc: 'abcdheuneknskandjmsmax dhdjsjs hdjsbajudkw fjsiubwdiie sjhdksdsjjbchdubhduud jdihwsjdhbd hjsdhu'}
+
+- {name: 'Sample Project 2', url: 'projects/W5---Animation--Google-search-for-FB-.html', img_src: '/headerimg.jpg', desc: 'abcdheuneknskandjmsmax dhdjsjs hdjsbajudkw fjsiubwdiie sjhdksdsjjbchdubhduud jdihwsjdhbd hjsdhu'}
+
+

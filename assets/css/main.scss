@@ -1,0 +1,24 @@
+$backgroundColor: #fff6e9;
+$bodyColor: #000000;
+$bodyFont: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+//$linkColor: #3ed646 !important;
+$color: black;
+body {
+  background: $backgroundColor;
+  color: $bodyColor;
+  font-family: $bodyFont;
+  color: #000000;
+
+
+}
+
+body a {
+  text-decoration: none;
+  //color: $linkColor;
+  font-style: none;
+  color: #000000;
+}
+
+a{
+  color: black;
+}

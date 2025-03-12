@@ -1,0 +1,11 @@
+<footer class="pt-5 my-5 text-muted border-top">
+  <div class="row" style="display: flex; align-items: center;
+  justify-content: center; height: auto; padding: 0;margin-bottom:1.5rem; align-content: center;">
+    <div class="col-md-6 text-end social-media-icons" style="display: flex; align-items: center;
+  justify-content: center; height: auto; padding: 0;margin-bottom:1.5rem; align-content: center;">
+      {% for item in site.data.settings.social %}
+        <a href="{{ item.link }}" class="ms-3 fs-5" style="margin: 0; padding: 0;"><i class="fab fa-{{ item.icon }}"></i></a>
+      {% endfor %}
+    </div>
+  </div>
+</footer>
